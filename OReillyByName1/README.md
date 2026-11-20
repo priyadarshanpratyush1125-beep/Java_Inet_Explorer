@@ -18,4 +18,4 @@ It shows how Java makes it possible to work with website names without manually 
 - DNS and hostname resolution
 
 ## Output
-![OReillyByName1 Output](OReillyByName1\OReillyByName1.png)
+![OReillyByName1 Output](./OReillyByName1.png)
