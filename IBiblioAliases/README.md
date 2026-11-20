@@ -18,4 +18,4 @@ This program provides a basic understanding of hostname resolution and how names
 - DNS resolution
 
 ## Output
-![IBiblioAliases Output](IBiblioAliases\IBiblioAliases.png)
+![IBiblioAliases Output](./IBiblioAliases.png)
