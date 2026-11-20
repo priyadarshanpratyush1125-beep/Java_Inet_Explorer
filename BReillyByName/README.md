@@ -18,4 +18,4 @@ This helps understand how DNS (Domain Name System) connects human-readable websi
 - DNS
 
 ## Output
-![BReillyByName Output](BReillyByName\BReillyByName.png)
+![BReillyByName Output](./BReillyByName.png)
