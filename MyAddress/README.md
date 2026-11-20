@@ -18,4 +18,4 @@ This program is useful for understanding how Java interacts with the local syste
 - Hostname and IP address
 
 ## Output
-![MyAddress Output](MyAddress\MyAddress.png)
+![MyAddress Output](./MyAddress.png)
